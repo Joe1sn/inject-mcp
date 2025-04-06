@@ -42,7 +42,7 @@ Use the AI tool inject to inject Shellcode into the process named x64dbg using t
 
 ![image-20250406152838520](D:\Github\inject-mcp\assets\image-20250406152838520.png)
 
-https://github.com/Joe1sn/inject-mcp/raw/refs/heads/main/README.assets/2025-04-06%2015-17-21.mp4
+![Demo](./README.assets/2025-04-06 15-17-21.mp4)
 
 # TODO
 
